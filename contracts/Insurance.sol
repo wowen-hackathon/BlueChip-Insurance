@@ -9,15 +9,6 @@
  * a claim in case of fraud with their NFT. The admin (insurance company) has the possibility to review
  * the claim. They can either accept it or reject it.
  *
- * Dependencies:
- * - OpenZeppelin ERC20 library (version 3.0.0 or higher)
- *
- * Contract Structure:
- * - Structs: None
- * - Enums: None
- * - Mappings: None
- * - Events: Transfer, Approval
- * - Modifiers: None
  */
 
 // SPDX-License-Identifier: MIT
