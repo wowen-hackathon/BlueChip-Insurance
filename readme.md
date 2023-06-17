@@ -6,8 +6,8 @@ Welcome to BlueChip Insurance, the leading provider of insurance solutions for B
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [NFTs Supported](#NFTsSupported) 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
