@@ -1,0 +1,44 @@
+.no-history {
+	margin-top: 4em;
+}
+
+.history-header {
+	border: 1px solid black;
+	border-radius: 1em 1em 0 0;
+	background-color: #8b5b44ff !important;
+	color: white;
+}
+
+.history-content {
+	margin: 2em 4em;
+}
+
+.history-body {
+	max-height: 40vh;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding-left: 1em;
+}
+
+.history-body > .row {
+	border-bottom: 1px solid black;
+	background-color: #fae9e133;
+}
+
+.history-content > .lds-circle > div {
+	background-color: black;
+	width: 2em;
+	height: 2em;
+}
+
+.cell {
+	padding: 0.5em 0.5em;
+	text-align: left;
+}
+
+.history-nft-image {
+	margin-top:  1em;
+	border-radius: 0.5em;
+    width: 30em;
+    box-shadow: 10px 10px 5px gray;
+}

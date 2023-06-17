@@ -1,0 +1,37 @@
+.no-claim-history {
+	margin-top: 4em;
+}
+
+.claim-history-header {
+	border: 1px solid black;
+	border-radius: 1em 1em 0 0;
+	background-color: #8b5b44ff !important;
+	color: white;
+}
+
+.claim-history-content {
+	margin: 2em 4em;
+}
+
+.claim-history-body {
+	max-height: 40vh;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding-left: 1em;
+}
+
+.claim-history-body > .row {
+	border-bottom: 1px solid black;
+	background-color: #fae9e133;
+}
+
+.claim-history-content > .lds-circle > div {
+	background-color: black;
+	width: 2em;
+	height: 2em;
+}
+
+.cell {
+	padding: 0.5em 0.5em;
+	text-align: left;
+}

@@ -1,0 +1,52 @@
+.no-review-claim-history {
+	margin-top: 4em;
+}
+
+.review-claim-history-header {
+	border: 1px solid black;
+	border-radius: 1em 1em 0 0;
+	background-color: #8b5b44ff !important;
+	color: white;
+}
+
+.review-claim-history-content {
+	margin: 2em 4em;
+}
+
+.review-claim-history-body {
+	max-height: 50vh;
+	overflow-y: auto;
+	overflow-x: hidden;
+	padding-left: 1em;
+}
+
+.review-claim-history-body > .row {
+	border-bottom: 1px solid black;
+	background-color: #fae9e133;
+}
+
+.review-claim-history-content > .lds-circle > div {
+	background-color: black;
+	width: 2em;
+	height: 2em;
+}
+
+.jhatu-btn.approve {
+	margin: 0.1em;
+	background-color: #489748;
+}
+
+.jhatu-btn.reject {
+	margin: 0.1em;
+	background-color: #f04848;
+}
+
+.jhatu-btn.disabled {
+	cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.cell {
+	padding: 0.5em 0.5em;
+	text-align: left;
+}

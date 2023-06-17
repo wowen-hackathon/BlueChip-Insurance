@@ -1,0 +1,31 @@
+.claim-form {
+	text-align: left;
+	width: 65%;
+	margin-top: 3em;
+	margin-left:  17.5%;
+	margin-right:  17.5%;
+	padding: 2.5vw;
+	border-radius: 0.5em;
+	background-color: #8b5b44;
+	color:  white;
+
+	max-height: 45vh;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+.claim-form > .row {
+	margin-top: 0.7em;
+}
+
+.claim-form-btn-wrapper {
+	margin-top:  2em;
+}
+
+.claim-success {
+	margin-top:  3em;
+}
+
+.file-claim-btn-pay {
+	min-width: 11em;
+}

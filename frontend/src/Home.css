@@ -1,0 +1,38 @@
+.home-heading {
+	font-weight: bold;
+	margin-top: 2em;
+	font-size: 1.1em;
+}
+
+.home-subheading {
+	margin-top: 1em;
+	font-weight: lighter;
+}
+
+.home-buttons {
+	text-align: -webkit-center;
+	text-align: -moz-center;
+}
+
+.home-row-1 {
+	width: 80%;
+	margin-top: 2em;
+}
+
+@media (max-width: 767px) {
+	.home-row-1 > div {
+		margin-bottom: 1em;
+	}
+}
+
+.home-row-2 {
+	width: 80%;
+	margin-top: 2em;
+}
+
+.home-nft-image {
+	margin-top:  1em;
+	border-radius: 0.5em;
+    width: 25em;
+    box-shadow: 10px 10px 5px gray;
+}
