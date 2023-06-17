@@ -47,7 +47,7 @@ To install and run BlueChip Insurance locally, follow these steps:
 
 ## Smart contract address on Wowen: 0x210c68419CD16a1116c088A22e30C79D1bf3940b
 
-## See the app in action here:
+## See the app in action here: [https://www.insurance.niharika.me/](https://www.insurance.niharika.me/)
 
 ## Contributing
 
